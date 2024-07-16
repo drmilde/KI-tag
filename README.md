@@ -1,5 +1,5 @@
 # Der KI-Tag
-Ein Tag, der sich der Nutzung von KI im akademischen Alltag widmet
+Ein Tag, der sich der Nutzung von KI im akademischen Alltag widmet.
 
 
 In der Playlist werden die Videos zum KI-Tag verfügbar gemacht:
